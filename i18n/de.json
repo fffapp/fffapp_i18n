@@ -1,0 +1,23 @@
+{
+  "Select your language":"Sprache ändern",
+  "Settings": "Einstellungen",
+  "General":"Allgemeines",
+  "Language":"Sprache",
+  "Cancel":"Abbrechen",
+  "Confirm":"Bestätigen",
+  "Events":"Veranstaltungen",
+  "Strike":"Streik",
+  "Strike detail":"Streikdetails",
+  "Where": "Wo",
+  "Recurrent": "Wiederkehrend",
+  "Event link":"Veranstaltungslink",
+  "monthly": "monatlich",
+	"one_time": "einmalig",
+  "weekly": "wöchentlich",
+  "Search your city":"Finde deine Stadt",
+  "Show Map":"Karte anzeigen",
+  "Strikes Map":"Streikkarte",
+  "Strike countries":"Streikende Länder",
+  "Show Complete Map": "Ganze Karte anzeigen",
+  "Search your country": "Finde dein Land"
+}
