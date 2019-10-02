@@ -91,6 +91,17 @@
   "Updated at:":"Aggiornato il:",
   "TEXT_NO_SUBSCRIPTIONS":"<strong>Attenzione.</strong> Non hai ancora impostato nessuna sottoscrizione ad eventi locali. Puoi modificare le tue sottoscrizioni nel tuo profilo.",
   "Edit profile":"Modifica profilo",
-  "For the moment there are no events. Find us again.":"Per il momento non ci sono eventi.<br>Torna trovarci."
+  "For the moment there are no events. Find us again.":"Per il momento non ci sono eventi.<br>Torna trovarci.",
+  "Groups":"Gruppi",
+  "local":"Locale",
+  "national":"Nazionale",
+  "international":"Internazionale",
+  "Follow":"Segui",
+  "You'll be unsubscribed from this group.":"Stai per abbandonare del gruppo",
+  "Group info":"Informazioni sul gruppo",
+  "More": "Mostra altro",
+  "Published by":"Pubblicato da",
+  "When":"Quando",
+  "See map below":"Vedi la mappa in basso"
 
 }
