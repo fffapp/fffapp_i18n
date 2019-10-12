@@ -102,5 +102,22 @@
   "More": "Mehr",
   "Published by":"Veröffentlicht von",
   "When":"When",
-  "See map below":"Siehe Karte unten"
+  "See map below":"Siehe Karte unten",
+  "Who helped make the app grow?":"Wer hat dazu beigetragen, dass die App wächst?",
+  "Collaborators":"Mitarbeiter",
+  "HOME.about.title":"Über uns",
+  "HOME.about.text":"Fridays For Future ist eine Bewegung von Menschen, die sich an die gesamte Gesellschaft richtet. Wir kämpfen, um den Klimawandel zu stoppen, indem wir die Wissenschaft alarmieren und das Versagen der Regierungen anprangern.<br><br>Wir sind Teil einer globalen, friedlichen, überparteilichen Bewegung und gegen jede Form von Diskriminierung. Wir sind die Generation, die gezwungen sein wird, mehr als alle Kosten eines nicht nachhaltigen und unfairen Entwicklungsmodells zu bezahlen, es sei denn, wir sind in der Lage, das System so zu ändern, dass der Klimawandel gestoppt wird<br><br>Wir sind parteiunabhängig und reagieren nur auf Versammlungen, in denen Menschen am Kampf für die Zukunft aller beteiligt sind. Wir lehnen jede Instrumentalisierung ab: Niemand repräsentiert uns, wir haben keine Flagge, unsere Stimme kommt von den Versammlungen und den Mobilisierungsfeldern.",
+  "HOME.what.title":"Was wir wollen",
+  "HOME.what.text":"Wir wollen die Welt vor der Klimakatastrophe retten und den Anstieg der Erdtemperatur auf + 1,5 ° C stoppen. Unser Land muss die Dekarbonisierung der Energieerzeugung in kürzester Zeit realisieren.<br><br>Um den Schutz des Ökosystems zu gewährleisten, ist eine radikale Veränderung des Wirtschafts- und Sozialsystems erforderlich: Es ist notwendig, ein System zu dekonstruieren, das im Namen eines Konzepts der unendlichen Entwicklung in einer Welt endlicher Ressourcen Profit vor Leben stellt, die Gebiete verschmutzt und verwüstet.<br><br>Unser Anspruch auf systemischen Wandel wird in den Gebieten abgelehnt, die sich jeder Umweltzerstörung widersetzen, einschließlich der großen Werke, die unseren Ökosystemen schaden. \"Global denken, lokal handeln\" ist ein Grundprinzip, für das wir territoriale Umweltkonflikte unterstützen.<br><br>Wir wollen ein kreisförmiges Wirtschaftssystem, das eine Änderung der Lebensweise mit sich bringt, kombiniert mit einer Produktionsweise, die auf der Achtung der Umwelt, des Klimas und der sozialen Gerechtigkeit beruht. Wer sich mit diesem nicht nachhaltigen Wirtschaftssystem verschmutzt und bereichert hat, muss die Kosten der ökologischen Umstellung finanzieren.<br><br>Die öffentliche Bildung und Forschung muss alternative Entwicklungsmodelle vorschlagen und die Lehre und Forschung im Zusammenhang mit umweltschädlichen Aktivitäten aufgeben, wie z. B. Wechsel zwischen Schule und Beruf und Praktika an Universitäten in Unternehmen, die für die Verwüstung unserer Gebiete verantwortlich sind.",
+  "Useful Informations":"Nützliche Informationen",
+  "FAQ.faq1.title":"Ich kann keine Gruppe in der GRUPPEN-Liste finden",
+  "FAQ.faq1.text":"Wenden Sie sich über bekannte soziale Netzwerke an die Kontaktperson Ihrer Gruppe, und fordern Sie die Registrierung der Gruppe mithilfe des Formulars an, das unter der folgenden Adresse verfügbar ist: <a href=\"http://www.fffapp.org/group-register html\">http://www.fffapp.org/group-register.html</a>",
+  "FAQ.faq2.title":"Ich kann in meiner Stadt keinen Streik auf der Streikliste finden",
+  "FAQ.faq2.text":"Die Streikliste wird mit den auf der Website <a href=\"https://fridaysforfuture.org\">https://fridaysforfuture.org</a> verfügbaren Daten aktualisiert. Diese Seite bietet ein spezielles Streikregistrierungsformular im JOIN-Bereich",
+  "FAQ.faq3.title":"Was ist eine Registrierung erforderlich?",
+  "FAQ.faq3.text":"Durch die Registrierung erhalten Sie personalisierte Benachrichtigungen von der Gruppe oder den Gruppen, denen Sie folgen, beispielsweise wenn ein neues Ereignis erstellt wird.",
+  "FAQ.faq4.title":"Die Übersetzung fehlt in meiner Sprache",
+  "FAQ.faq4.text":"Sie können Ihre Übersetzung unterstützen, indem Sie die Texte von <a href=\"https://github.com/fffapp\">https://github.com/fffapp</a> herunterladen. Die Übersetzungsdatei wurde im JSON-Format geschrieben, kann jedoch in jedem Texteditor geändert werden. Sie können Ihre Übersetzung an die folgende Adresse senden: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
+  "FAQ.faq5.title":"Ich habe Vorschläge zur Verbesserung der App",
+  "FAQ.faq5.text":"Wir entwickeln diese App komplett kostenlos als Beitrag zur Sache. Wir machen das in unserer Freizeit, also berücksichtigen wir alle Vorschläge und versuchen, sie so schnell wie möglich einzuführen.<br>Sie können mich unter folgender E-Mail-Adresse erreichen: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>"
 }
