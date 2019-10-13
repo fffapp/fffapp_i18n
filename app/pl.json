@@ -19,7 +19,7 @@
   "Strikes Map":"Mapa strajków",
   "Strike countries":"Państwa strajków",
   "Show Complete Map": "Pokaż całą mapę",
-  "Search your country": "Wyszukaj swój kra",
+  "Search your country": "Wyszukaj swój kraj",
   "Legal notice":"Informacje prawne",
   "Email is required": "E-mail jest wymagany",
   "Please enter a valid email":"Podaj prawidłowy adres e-mail",
@@ -119,6 +119,7 @@
   "FAQ.faq4.title":"Brak dostępnego tłumaczenia w moim języku.",
   "FAQ.faq4.text":"Możesz pomóc w tłumaczeniu, pobierając teksty z <a href=\"https://github.com/fffapp\">https://github.com/fffapp</a>. Plik tłumaczenia został napisany w formacie JSON, ale można go modyfikować w dowolnym edytorze tekstu. Możesz wysłać swoje tłumaczenie na adres: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
   "FAQ.faq5.title":"Chciałbym pomóc w tworzeniu aplikacji",
-  "FAQ.faq5.text":"Rozwijamy tę aplikację całkowicie bezpłatnie jako wkład w sprawę. Robimy to w wolnym czasie, dlatego bierzemy pod uwagę wszystkie propozycje i staramy się je przedstawić jak najszybciej.<br>Możesz się ze mną skontaktować pod adresem: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>"
+  "FAQ.faq5.text":"Rozwijamy tę aplikację całkowicie bezpłatnie jako wkład w sprawę. Robimy to w wolnym czasie, dlatego bierzemy pod uwagę wszystkie propozycje i staramy się je przedstawić jak najszybciej.<br>Możesz się ze mną skontaktować pod adresem: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
+  "Hi Guest":"Cześć Gość"
   
 }

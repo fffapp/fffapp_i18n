@@ -119,5 +119,6 @@
   "FAQ.faq4.title":"Falta la traducción en mi idioma",
   "FAQ.faq4.text":"Puede ayudar a hacer su traducción descargando los textos de <a href=\"https://github.com/fffapp\">https://github.com/fffapp</a>. El archivo de traducción se ha escrito en formato JSON, pero se puede modificar en cualquier editor de texto. Puede enviar su traducción a la dirección: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
   "FAQ.faq5.title":"Tengo propuestas para mejorar la aplicación.",
-  "FAQ.faq5.text":"Estamos desarrollando esta aplicación de forma totalmente gratuita como una contribución a la causa. Lo hacemos en nuestro tiempo libre, por lo que tomamos en cuenta todas las propuestas y tratamos de presentarlas tan pronto como el tiempo lo permita.<br>Puede contactarme en: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>"
+  "FAQ.faq5.text":"Estamos desarrollando esta aplicación de forma totalmente gratuita como una contribución a la causa. Lo hacemos en nuestro tiempo libre, por lo que tomamos en cuenta todas las propuestas y tratamos de presentarlas tan pronto como el tiempo lo permita.<br>Puede contactarme en: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
+  "Hi Guest":"Hola invitado"
 }

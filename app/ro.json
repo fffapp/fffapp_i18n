@@ -119,5 +119,6 @@
   "FAQ.faq4.title":"Traducerea lipsește în limba mea",
   "FAQ.faq4.text":"Puteți ajuta să faceți traducerea dvs. descărcând textele din <a href=\"https://github.com/fffapp\">https://github.com/fffapp</a>. Fișierul de traducere a fost scris în format JSON, dar poate fi modificat în orice editor de text. Puteți trimite traducerea la adresa: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
   "FAQ.faq5.title":"Am propuneri de îmbunătățire a aplicației",
-  "FAQ.faq5.text":"Dezvoltăm această aplicație complet gratuit ca o contribuție la cauză. O facem în timpul liber, așa că luăm în considerare toate propunerile și încercăm să le prezentăm cât mai curând timpul. <br> Puteți să mă contactați la adresa: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>"
+  "FAQ.faq5.text":"Dezvoltăm această aplicație complet gratuit ca o contribuție la cauză. O facem în timpul liber, așa că luăm în considerare toate propunerile și încercăm să le prezentăm cât mai curând timpul. <br> Puteți să mă contactați la adresa: <a href=\"mailto:info@fffapp.org\">info@fffapp.org</a>",
+  "Hi Guest":"Buna invitat"
 }
